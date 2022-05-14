@@ -1,2 +1,10 @@
 # freelancer_inicio
-My first Udemy proyect 
+This is my first Udemy proyect made with only html and css.
+
+## URL 
+
+https://firstproyectudemy.netlify.app/
+
+
+
+
